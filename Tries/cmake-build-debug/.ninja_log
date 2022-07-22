@@ -1,0 +1,5 @@
+# ninja log v5
+3	1386	6685467487297435	CMakeFiles/Tries.dir/main.cpp.obj	ea48e1bd17a514fb
+1387	1735	6685467490758500	Tries.exe	7cacf330303bde97
+1	1417	6687098110047143	build.ninja	5b833fbbd282bc0d
+15	703	6685443094539964	CMakeFiles/Tries.dir/Node.cpp.obj	c2849389a2a1d749
